@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=ToxicCybers&label=Pʀᴏғɪʟᴇ%20Vɪᴇᴡs&color=blueviolet&style=flat-square" />
 
 ```python
-Nᴀᴍᴇ = "𝚃𝚘𝚡𝚒𝚌 𝙲𝚢𝚋𝚎𝚛"
+Nᴀᴍᴇ = "𝚃ᴏxɪ𝚌 𝙲ʏʙᴇʀ"
 Wʜᴏ Aᴍ I = ['Cᴏᴅɪɴɢ = ❣️']
 Aɢᴇ = "18"
 Cᴏᴜɴᴛʀʏ = "🇮🇳"
